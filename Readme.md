@@ -1,6 +1,6 @@
 # Streaming de jogos na nuvem
 <div align="center">
-<img src="https://github.com/igoraugustobrz/Cloud_game_streaming/blob/main/img/Design-final.png" width="2000px" />
+<img src="https://github.com/igoraugustobrz/Crynn_Cloud_Gaming/blob/main/img/Design-final.png" width="2000px" />
 </div>
 
 ---
